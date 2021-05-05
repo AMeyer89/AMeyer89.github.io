@@ -5,8 +5,7 @@ header:
   image: "/images/asu-wide-shot-fb.jpg"
 ---
 
-gallery:
-  - url: /images/aboutMePic.PNG
-    image_path: /images/aboutMePic.PNG
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+<p align="center">
+  <img src="/images/aboutMePic.PNG" width="350" title="hover text">
+  <img src="/images/aboutMePic.PNG" width="350" alt="accessibility text">
+</p>
