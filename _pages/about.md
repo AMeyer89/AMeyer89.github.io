@@ -6,4 +6,4 @@ header:
 
 ![chart](/images/aboutMePic.PNG)
 
-<img src="/images/aboutMePic.PNG" width="500" height="500" />
+<img src="/images/aboutMePic.PNG" width="1000" height="800" />
