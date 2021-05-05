@@ -5,5 +5,5 @@ header:
 ---
 
 <p align="center">
-  <img src="/images/aboutMePic.PNG" width="500" title="hover text">
+  <img src="/images/aboutMePic.PNG" width="500">
 </p>
