@@ -4,4 +4,6 @@ header:
   image: "/images/asu-wide-shot-fb.jpg"
 ---
 
-![plot](/images/aboutMePic.PNG =500x100)
+![chart](/images/aboutMePic.PNG)
+
+<img src="images/aboutMePic.PNG" width="500" height="100" />
