@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 header:
-  <img src="/images/asu-wide-shot-fb.jpg" style="width:42px;height:42px;">
+  image: "/images/asu-wide-shot-fb.jpg"
 ---
 
-<img src="/images/aboutMePic.PNG" style="width:42px;height:42px;">
+<img src="/images/aboutMePic.PNG" style="width:200px;height:200px;">
