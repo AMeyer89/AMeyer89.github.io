@@ -1,8 +1,5 @@
 ---
-layout: home
 permalink: /contact/
-title: "Data Science Projects"
-author_profile: true
 header:
 ---
 
