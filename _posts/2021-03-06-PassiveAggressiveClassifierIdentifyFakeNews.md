@@ -1,6 +1,6 @@
 ---
 title: "Passive Aggressive Classifier to Identify Fake News"
-date: 2020-03-06
+date: 2021-03-06
 tags: [data science, impacts, ethics, classifier, fake news]]
 header:
 excerpt: "data science, impacts, ethics, classifier, fake news"
