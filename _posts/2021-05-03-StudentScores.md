@@ -1,7 +1,7 @@
 ---
 title: "Student Scores"
 date: 2021-05-03
-tags: [data science, students, predictions, klearn, Linear regression]]
+tags: [data science, students, predictions, klearn, Linear regression]
 header:
 excerpt: "data science, students, predictions, klearn, Linear regression"
 mathjax: "true"
