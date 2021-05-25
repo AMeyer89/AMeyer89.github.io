@@ -1,7 +1,7 @@
 ---
 title: "Fantasy Football Analysis"
 date: 2020-11-30
-tags: [data science, impacts, football]]
+tags: [data science, impacts, football]
 header:
 excerpt: "data science, impacts, football"
 mathjax: "true"
