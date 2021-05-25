@@ -1,7 +1,7 @@
 ---
 title: "Traffic Signs CNN"
 date: 2021-06-05
-tags: [data science, neural networks, ConvNets, Convolutional neural networks]]
+tags: [data science, neural networks, ConvNets, Convolutional neural networks]
 header:
 excerpt: "data science, neural networks, ConvNets, Convolutional neural networks"
 mathjax: "true"
