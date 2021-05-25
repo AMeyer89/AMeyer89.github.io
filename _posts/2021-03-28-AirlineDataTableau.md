@@ -22,7 +22,7 @@ mathjax: "true"
   <h3 align="center">TRAFFIC SIGN CLASSIFICATION</h3>
 
   <p align="center">
-	This is a project to show the different ways to present data. For example Tableau, infographic, powerpoint. 
+	This is a project to show the different ways to present data. For example Tableau, infograph, powerpoint. 
 	<br />
     <a href="https://github.com/AMeyer89/AirlineDataTableau"><strong>Explore the docs »</strong></a>
     <br />
