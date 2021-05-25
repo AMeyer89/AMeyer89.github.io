@@ -124,7 +124,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - swim53185@gmail.com
+April Meyer - swim53185@gmail.com
 
 Project Link: [https://github.com/AMeyer89/PassiveAggressiveClassifierIdentifyFakeNews](https://github.com/AMeyer89/PassiveAggressiveClassifierIdentifyFakeNews)
 
