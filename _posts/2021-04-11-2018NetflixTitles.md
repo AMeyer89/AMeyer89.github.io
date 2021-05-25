@@ -1,7 +1,7 @@
 ---
 title: "2018 Netflix Titles"
 date: 2021-04-11
-tags: [data science, recommend, Cosine Similarity, netflix]]
+tags: [data science, recommend, Cosine Similarity, netflix]
 header:
 excerpt: "data science, recommend, Cosine Similarity, netflix"
 mathjax: "true"
